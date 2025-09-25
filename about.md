@@ -15,6 +15,6 @@ I make games! I have a few years of gamedev experience both on a professional an
 
 It's a mixture of random chitter chatter and a devlog for my hobby projects. If a big happening happens and I happen to happen upon it, expect it to happen here too :0
 
-### If you want to talk bussiness or just have a chat feel free to send me an email!
+### If you want to talk bussiness or just have a chat, feel free to send me an email!
 
 [email@domain.com](mailto:email@domain.com)
