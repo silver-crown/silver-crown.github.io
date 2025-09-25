@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: Hello world! 
 ---
 
 I tried to upgrade my PC yesterday, (making the switch from Intel to AMD) turns out I needed a new aircooler to go with the new motherboard. When I tried to put my old aircooler back into the old rig, a blood sacrifice was made
