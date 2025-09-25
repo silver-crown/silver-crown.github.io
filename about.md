@@ -5,11 +5,18 @@ permalink: /about/
 ---
 ### Who am I?
 
-I'm a mystery 👻 something inexplicable 👻 an enigma 👻 
+ I come from the ancient glorious kingdom of Norvegia 👻
+ 
+ I'm a mystery 👻 something inexplicable 👻 an enigma 👻
 
 ### What do I do?
 
 I make games! I have a few years of gamedev experience both on a professional and hobbyist level. My solo debut is still pending release. 🌴
+
+as for what technologies I have experience with, it's primarily C# and the Unity Engine in a professional setting. I use C++ with OpenGL in hobby settings, and that's what my 
+latest project is built on 😱
+
+I also draw my own sprite art and animations >_>
 
 ### What is this blog even about
 
