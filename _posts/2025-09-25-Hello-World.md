@@ -9,6 +9,3 @@ I tried to upgrade my PC yesterday, (making the switch from Intel to AMD) turns 
 
 I also lost a screw somewhere behind the motherboard and now the rig won't boot up anymore ;_; 
 guess I'll just be without a PC for the next couple of days until my new cooler arrives...
-
-
--Silver
